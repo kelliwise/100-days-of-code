@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log for Kelli Wise
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
