@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log for Kelli Wise
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 1, 2018 (CSS)
+First project - continue my 100 days of CSS project as I work through the 4th edition of CSS the Definitive Guide by Eric Meyer and Estelle Weyl. I started this in November and put it on pause in December as I prepped for the holidays and finished up some end of year work projects.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: pages 200 - 236 - working on text formatting. Nothing earth shattering here that I haven't used before but it was a good read, especially on the text box. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: January 1, 2018 (CSS)
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Finished Chapter 6 on text properties. Interesting stuff on white space and writing modes. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts**: Again, nothing too new here but writing modes, which I've not used before, looks like fun to play with.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Fun with writing Modes](https://codepen.io/kwise/pen/KZqLgG)
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
