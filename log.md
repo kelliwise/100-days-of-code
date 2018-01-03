@@ -7,7 +7,7 @@ First project - continue my 100 days of CSS project as I work through the 4th ed
 
 ### Day 2: January 1, 2018 (CSS)
 
-**Today's Progress**: Finished Chapter 6 on text properties. Interesting stuff on white space and writing modes. 
+**Today's Progress**: Finished Chapter 6 on text properties, so pages 236 - 256. Interesting stuff on white space and writing modes. 
 
 **Thoughts**: Again, nothing too new here but writing modes, which I've not used before, looks like fun to play with.
 
