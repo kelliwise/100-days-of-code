@@ -31,7 +31,7 @@ First project - continue my 100 days of CSS project as I work through the 4th ed
 
 ### Day 5: January 5, 2018 (CSS)
 
-**Today's Progress**: Was stuck waiting on hold, so I hopped over to Free Code Camp and finished up the first half of "Responsive Design with Bootstrap".   
+**Today's Progress**: Was stuck waiting on hold, so I hopped over to Free Code Camp and finished up the first half of "Responsive Design with Bootstrap".  And then I finished that section and got to the beginning of the jQuery section. 
 
 **Thoughts**: Working on the certification as a front end developer.
 
