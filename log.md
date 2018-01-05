@@ -21,3 +21,11 @@ First project - continue my 100 days of CSS project as I work through the 4th ed
 
 **Link(s) to work**: [Block Boxes 1](https://codepen.io/kwise/pen/rpGwMV)
 
+### Day 4: January 43, 2018 (CSS)
+
+**Today's Progress**: Started Chapter 7 on Basic Visual Formatting, pages 265 - 284. Boxes, margins, padding, auto.  
+
+**Thoughts**: Again, nothing too new here but a very nice discussion about collapsing margins. Some interesting ideas for fun formatting with negative margins on some elements.
+
+**Link(s) to work**: [Blocks part 2](https://codepen.io/kwise/pen/MrEGWj)
+
