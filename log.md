@@ -29,3 +29,10 @@ First project - continue my 100 days of CSS project as I work through the 4th ed
 
 **Link(s) to work**: [Blocks part 2](https://codepen.io/kwise/pen/MrEGWj)
 
+### Day 5: January 5, 2018 (CSS)
+
+**Today's Progress**: Was stuck waiting on hold, so I hopped over to Free Code Camp and finished up the first half of "Responsive Design with Bootstrap".   
+
+**Thoughts**: Working on the certification as a front end developer.
+
+**Link(s) to work**: None. It's all online.
