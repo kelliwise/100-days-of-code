@@ -36,3 +36,22 @@ First project - continue my 100 days of CSS project as I work through the 4th ed
 **Thoughts**: Working on the certification as a front end developer.
 
 **Link(s) to work**: None. It's all online.
+
+### Day 6: January 6, 2018 (Free Code Camp)
+
+**Today's Progress**: Started and completed the 1st Front End Project - a Tribute page.  
+
+**Thoughts**: Researching the content took longer than the page itself. I am actually using Bootstrap, since it's easy to implement on CodePen. Very little custom CSS. The whole project took a little over an hour. 
+
+**Link(s) to work**: [Tribute Page Project](https://codepen.io/kwise/pen/XVzENr)
+
+### Day 7: January 7, 2018 (Free Code Camp)
+
+**Today's Progress**: Started and completed the 2nd Front End Project - a Portfolio page with navigation, thumbnails, etc.  
+
+**Thoughts**: Used Bootstrap again but with a lot of custom CSS. If you're going to do a portfolio project, you might as well make it look good-ish. Would be happier with more attention to the background photo, but the point here was to hand code a single page website in html and css. I surprise myself with how much html and css I know since the only thing I had to refer to was Bootstrap, which is pretty new to me. 
+
+Other thoughts: I need to create a Bootstrap-like framework for my own projects which is grid enabled and much lighter weight than Bootstrap. I also need to commit the code for these projects to github so I have real access to them in the future. And so it show up in my commit history. :-)
+
+**Link(s) to work**: [Portfolio Project](https://codepen.io/kwise/pen/vpWwqK)
+
